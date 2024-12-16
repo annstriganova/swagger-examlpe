@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: Load Swagger example from file
