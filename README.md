@@ -16,7 +16,7 @@ Support for loading example from file in **Code-first** approach.
 ![swagger_ui_2.png](img/swagger_ui_2.png)
 
 Links:
-* [Swagger UI]()
+* [Swagger UI](http://localhost:8080/swagger-ui/index.html)
 * [Open API JSON](http://localhost:8080/v3/api-docs)
 * [Open API YAML](http://localhost:8080/v3/api-docs.yaml)
 
